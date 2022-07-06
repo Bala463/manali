@@ -11,7 +11,7 @@ class GFG {
  
             // Loop through all elements of current row
             for (int j = 0; j < mat[i].length; j++)
-                System.out.print(mat[i][j] + "bala ");
+                System.out.print(mat[i][j] + "balamurugan ");
 	
     }
  
